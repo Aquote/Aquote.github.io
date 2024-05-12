@@ -1534,7 +1534,7 @@ pre code {
 .table {
   width: 100%;
   margin-bottom: 1rem;
-  color: #ffffff;
+  color: #6c757d;
 }
 
 .table th,
@@ -1547,6 +1547,7 @@ pre code {
 .table thead th {
   vertical-align: bottom;
   border-bottom: 2px solid #dee2e6;
+  color: #ffffff;
 }
 
 .table tbody + tbody {
@@ -9982,3 +9983,5 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+
+
