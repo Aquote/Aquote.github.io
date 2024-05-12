@@ -1593,6 +1593,7 @@ pre code {
 .table-primary > th,
 .table-primary > td {
   background-color: #0BCEAF;
+  color: #ffffff;
 }
 
 .table-primary th,
